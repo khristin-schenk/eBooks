@@ -1,4 +1,12 @@
-# eBooks
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="./b123.png" alt="Markdownify" width="200"></a>
+  <br>
+A Small Collection of <br>Public Domain Books
+  <br>
+</h1>
+
+___
 
  - [Alice's Adventures Under Ground](./Books/Alice's%20Adventures%20Under%20Ground/landing.html)
  - [Alice’s Adventures in Wonderland](./Books/Alice%E2%80%99s%20Adventures%20in%20Wonderland/Landing-Page-eBook.html)
@@ -6,10 +14,9 @@
 
 
 
-<p align="center">
-  <img width="32%" src="https://www.gutenberg.org/cache/epub/11/images/cover.jpg" alt=""/>
 
-  <img width="32%" src="https://www.gutenberg.org/cache/epub/19002/images/cover.jpg" alt=""/>
 
-  <img width="32%" src="https://www.gutenberg.org/cache/epub/12/images/cover.jpg" alt=""/>
-</p>
+<!--
+The Picture of Dorian Gray by Oscar Wilde
+https://creativecommons.org/about/cclicenses/
+-->
