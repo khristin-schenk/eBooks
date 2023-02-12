@@ -117,6 +117,10 @@
 		"workbench.settings.enableNaturalLanguageSearch": false,
 		"workbench.editor.autoLockGroups": {
 			"terminalEditor": false
-		}
+		},
+		"explorer.fileNesting.enabled": false,
+		"explorer.expandSingleFolderWorkspaces": false,
+		"editor.suggest.showFolders": false,
+		"better-comments.multilineComments": false
 	}
 }

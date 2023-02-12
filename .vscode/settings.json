@@ -45,5 +45,7 @@
 	"editor.codeActionWidget.showHeaders": true,
 	"git.showProgress": false,
 	"editor.comments.ignoreEmptyLines": true,
-	"editor.experimental.pasteActions.enabled": true
+	"editor.experimental.pasteActions.enabled": true,
+	"editor.suggest.showFolders": false,
+	"editor.detectIndentation": false
 }
