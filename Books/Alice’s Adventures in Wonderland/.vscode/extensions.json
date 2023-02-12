@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		"formulahendry.auto-close-tag",
+		"streetsidesoftware.code-spell-checker",
+		"editorconfig.editorconfig",
+		"dbaeumer.vscode-eslint",
+		"ritwickdey.liveserver",
+		"bierner.markdown-emoji",
+		"yzane.markdown-pdf",
+		"shd101wyy.markdown-preview-enhanced",
+		"bierner.markdown-preview-github-styles",
+		"rvest.vs-code-prettier-eslint",
+		"bradlc.vscode-tailwindcss",
+		"esbenp.prettier-vscode"
+	]
+}
