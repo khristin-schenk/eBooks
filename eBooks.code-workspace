@@ -117,6 +117,8 @@
 		"workbench.settings.enableNaturalLanguageSearch": false,
 		"workbench.editor.autoLockGroups": {
 			"terminalEditor": false
-		}
+		},
+		"explorer.fileNesting.enabled": false,
+		"explorer.sortOrder": "filesFirst"
 	}
 }
